@@ -1,0 +1,53 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: cursive;
+  background-color: pink;
+  color: black;
+  line-height: 1.6;
+  padding-bottom: 50px;
+}
+
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.hero img {
+  max-width: 80%;
+  height: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.features {
+  padding: 40px 20px;
+  background-color: floralwhite;
+}
+
+.features img.rounded {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  margin-top: 15px;
+}
+
+.story {
+  padding: 40px 20px;
+  background-color: honeydew;
+}
+
+.story h3 {
+  font-family: 'Georgia', serif;
+  margin-bottom: 15px;
+}
+
+.story p.cursive {
+  font-family: 'Courier New', cursive;
+  font-size: 18px;
+}
